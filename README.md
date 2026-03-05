@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1ofuniverse
-- 👀 I’m interested in Programing and learning github,compition.
+- 👀 I’m interested in Programing and learning git+hub,compition programming.
 - 🌱 I’m currently learning HTML,C++,pyhton,javascript.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through instagram @evilasmodeous
