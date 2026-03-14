@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Ramkrishan
+- *👋 Hi, I’m Ramkrishan*
 - 👀 I’m interested in Programing and learning git+hub,compition programming.
-- 🌱 I’m currently learning HTML,C++,pyhton,javascript.
+- 🌱 I’m currently learning HTML,C++,python,javascript.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through instagram @evilasmodeous
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...he
 - ⚡ Fun fact: ...
 
 <!---
@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 Tue,oct-29,2024
 Created today, updated weekly.
 working on HTML javascript project.
-i am learning from youtube
+i am learning from youtube.
